@@ -20,9 +20,7 @@ const posts = [
         content:
           "I come up my in profile a new project. This project have made with React Js and a use css modules to organized the styles.",
       },
-      { type: "link", content: "abimaelst/feed" },
-      { type: "link", content: " #newproject" },
-      { type: "link", content: "#reactjs" },
+      { type: "link", content: "abimaelst/feed  #newproject #reactjs" },
     ],
     publishedAt: new Date("2022-06-18 17:25:00"),
   },
